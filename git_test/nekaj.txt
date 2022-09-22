@@ -1,1 +1,3 @@
 Novo
+
+še ena nova funkcija
